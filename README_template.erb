@@ -1,10 +1,47 @@
-<h1> <u> AWESOMES AWESOMES </u> </h1>
+<h1> <u> Awesome Awesomes </u> </h1>
 
-A simple tool that aggregates creates a curated list of awesome curated lists (like `awesome-readme`).
+A simple tool that aggregates creates a curated list of awesome curated lists (like `awesome-readme`). Built with Ruby.
 
-<h1> <u> LIST OF AWESOME LISTS </u> </h1>
+<h1> <u> List Of Awesome Lists </u> </h1>
+<p> Total awesome list repositories under scanner : <%= $data_list.count.to_s %>
 <ol> 
-<li> <a href = "github.com"> user/repo </a> - Description of repo </li>
+    <% $data_list.each do |data| %>
+        <li> <a href = "<%= data["link"] %>"> <%= data["repo"] %> </a> - <%= data["desc"] %> </li><br>
+    <% end %>
 </ol>
+
+<h1> <u> How to contribute </u> </h1>
+<br><br>
+The work flow is the same as that of any other repository. 
+<br> (1) Fork / clone the repository.
+<br> (2) Create a new branch , say `my-changes` and make your changes in this branch.
+<br> (3) Commit your changes and send a Pull request (PR) to this repository.
+<br> Active contributors would be rewarded with the tag of "Collabrators"
+<br> Bug fixes , Issues , Issue solutions , Optimizations & Enhancements are always welcome.
+
+<h1> <u> License </u> </h1>
+<br><br>
+The MIT License (MIT)
+
+Copyright (c) 2016 Athitya Kumar
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
 
     
