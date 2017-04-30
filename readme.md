@@ -31,12 +31,12 @@ A simple tool that aggregates creates a curated list of awesome curated lists (l
 
 - [Windows](https://github.com/Awesome-Windows/Awesome)
 - [iOS]
-	..* [Vsouza's awesome list](https://github.com/vsouza/awesome-ios)
-	..* [Iamdaiyuan's awesome list](https://github.com/iamdaiyuan/ios_top_1000)
-	..* [Ameizi's awesome list](https://github.com/ameizi/awesome-ios-chart)
+	- [Vsouza's awesome list](https://github.com/vsouza/awesome-ios)
+	- [Iamdaiyuan's awesome list](https://github.com/iamdaiyuan/ios_top_1000)
+	- [Ameizi's awesome list](https://github.com/ameizi/awesome-ios-chart)
 - [Android]
-	..* [JStumpp's awesome list](https://github.com/JStumpp/awesome-android)
-	..* [Wasabeef's awesome list](https://github.com/wasabeef/awesome-android-tools)
+	- [JStumpp's awesome list](https://github.com/JStumpp/awesome-android)
+	- [Wasabeef's awesome list](https://github.com/wasabeef/awesome-android-tools)
 - [React Native](https://github.com/jondot/awesome-react-native)
 - [Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi)
 - [Fuse](https://github.com/vinkla/awesome-fuse)
@@ -50,20 +50,20 @@ A simple tool that aggregates creates a curated list of awesome curated lists (l
 ## Programming Languages
 
 - [Java]
-	..* [Akullpp's awesome list](https://github.com/akullpp/awesome-java)
-	..* [Uhub's awesome list](https://github.com/uhub/awesome-java)
+	- [Akullpp's awesome list](https://github.com/akullpp/awesome-java)
+	- [Uhub's awesome list](https://github.com/uhub/awesome-java)
 - [Go](https://github.com/avelino/awesome-go)
 - [Python](https://github.com/vinta/awesome-python)
 - [PHP](https://github.com/ziadoz/awesome-php)
 - [Swift]
-	..* [Wolg's awesome list](https://github.com/Wolg/awesome-swift)
-	..* [Uhub's awesome list](https://github.com/uhub/awesome-swift)
+	- [Wolg's awesome list](https://github.com/Wolg/awesome-swift)
+	- [Uhub's awesome list](https://github.com/uhub/awesome-swift)
 - [R](https://github.com/qinwf/awesome-R)
 - [Rust](https://github.com/kud1ing/awesome-rust)
 - [Elixir](https://github.com/h4cc/awesome-elixir)
 - [Lua](https://github.com/LewisJEllis/awesome-lua)
 - [Javascript]
-	..* [Promises](https://github.com/wbinnssmith/awesome-promises)
+	- [Promises](https://github.com/wbinnssmith/awesome-promises)
 - [Perl](https://github.com/hachiojipm/awesome-perl)
 - [Kotlin](https://github.com/mcxiaoke/awesome-kotlin)
 - [Assembler](https://github.com/feb21/awesome-asm)
@@ -71,8 +71,8 @@ A simple tool that aggregates creates a curated list of awesome curated lists (l
 - [Dart](https://github.com/yissachar/awesome-dart)
 - [Erlang](https://github.com/drobakowski/awesome-erlang)
 - [C/C++]
-	..* [Uhub's awesome list](https://github.com/uhub/awesome-c)
-	..* [Fenbf's awesome list](https://github.com/fenbf/AwesomePerfCpp)
+	- [Uhub's awesome list](https://github.com/uhub/awesome-c)
+	- [Fenbf's awesome list](https://github.com/fenbf/AwesomePerfCpp)
 - [Bash](https://github.com/awesome-lists/awesome-bash)
 
 
@@ -153,8 +153,8 @@ A simple tool that aggregates creates a curated list of awesome curated lists (l
 - [Dotfiles](https://github.com/webpro/awesome-dotfiles)
 - [SSH](https://github.com/moul/awesome-ssh)
 - [GitHub]
-	..* [Phillipadsmith's awesome list](https://github.com/phillipadsmith/awesome-github)
-	..* [AntBranch's awesome list](https://github.com/AntBranch/awesome-github)
+	- [Phillipadsmith's awesome list](https://github.com/phillipadsmith/awesome-github)
+	- [AntBranch's awesome list](https://github.com/AntBranch/awesome-github)
 - [Alfred Workflows](https://github.com/derimagia/awesome-alfred-workflows)
 - [Command-Line user Interface](https://github.com/aharris88/awesome-cli-apps)
 
